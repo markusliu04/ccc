@@ -1,5 +1,5 @@
 # Cursor API Proxy Worker配置
-name = "cursor-api-proxy"
+name = "ccc"
 main = "worker.js"
 compatibility_date = "2024-02-15"
 
